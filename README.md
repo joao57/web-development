@@ -13,8 +13,8 @@
 | 004  | Flip Animation |
 | 005    |    Loading Animation |
 | 007  | Zoom Animation |
-| 008    |     Glass effect :construction:  |
-| 009  |Responsive Card :construction: |
+| 008    |     Glass effect |
+| 009  |Responsive Card |
 | 010    |     Shadow Animation :construction:  |
 | 011  | Multi LAyer Animation :construction:  |
 | 012    |     Button Animation :construction:  |
