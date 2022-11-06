@@ -15,10 +15,10 @@
 | 007  | Zoom Animation |
 | 008    |     Glass effect |
 | 009  |Responsive Card |
-| 010    |     Shadow Animation :construction:  |
-| 011  | Multi LAyer Animation :construction:  |
-| 012    |     Button Animation :construction:  |
-| 013  | Emoji Animation CSS :construction:  |
+| 010    |     Shadow Animation  |
+| 011  | Multi LAyer Animation  |
+| 012    |     Button Animation  |
+| 013  | Emoji Animation CSS  |
 
 
 
