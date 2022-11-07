@@ -19,6 +19,13 @@
 | 011  | Multi LAyer Animation  |
 | 012    |     Button Animation  |
 | 013  | Emoji Animation CSS  |
+| 014  | Glass Effect |
+| 015  | Shape Animation  |
+| 016  | Navbar  |
+| 017  | Pre-loader  |
+| 018  | Flag Animation  |
+
+
 
 
 
